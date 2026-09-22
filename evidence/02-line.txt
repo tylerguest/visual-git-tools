@@ -1,0 +1,15 @@
+Line: qty += 5
+
+Commit ID: d495abf7779fcd9e29ff7e2052ca199bc74b785f
+
+Author: tylerguest
+
+Date: Sep 22, 2026
+
+Commit Message: Add incorrect qty calculation
+
+Interpretation:
+This commit removed the line "qty += 5". 
+That line added 5 to the quantity before calculating the total, 
+which caused the checkout result to be too high. 
+Removing it fixed the calculation.
