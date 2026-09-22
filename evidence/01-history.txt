@@ -1,0 +1,13 @@
+url: https://github.com/tylerguest/visual-git-tools.git
+
+branch names: main, visual-tools
+
+commit messages:
+  1. Create checkout.py
+  2. Update checkout.py
+
+History:
+The main and visual-tools branches share the first commits. 
+The two checkout.py commits are only on visual-tools. 
+HEAD is on visual-tools at the newest commit, "Update checkout.py". 
+The visual-tools branch label points to that newest commit.
