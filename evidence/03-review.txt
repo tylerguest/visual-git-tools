@@ -1,0 +1,10 @@
+Commit 1: Add description to checkout.py
+Files: checkout.py
+
+Commit 2: Add title to README.md
+Files: README.md
+
+Explaination:
+I separated the changes because they had different purposes. 
+This makes the commits easier to review and makes it easier to 
+undo one change without affecting the other.
