@@ -1,0 +1,3 @@
+See following images:
+screenshots\04-After Merge.png
+screenshots\04-Final State.png
