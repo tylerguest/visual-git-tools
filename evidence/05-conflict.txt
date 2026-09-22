@@ -1,0 +1,14 @@
+Conflicting Lines:
+main: Main review note
+visual-tools: Feature review note
+
+Final Resolution:
+Main review note
+
+Feature review note
+
+Commit message: Merge branch 'visual-tools'
+
+Explaination:
+The two branches changed the same part of README.md, which caused a merge conflict. 
+I resolved the conflict by keeping both lines and then completed the merge.
